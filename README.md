@@ -1,70 +1,35 @@
-# Getting Started with Create React App
+# 팀 Travel 프론트 프로젝트 입니다.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<img width="500" alt="스크린샷 2024-06-20 오후 3 33 31" src="https://github.com/Garbi93/travel-front/assets/143367033/e97e1e37-abeb-4aba-ac28-7a23c8c84f12">
 
-## Available Scripts
+### 📅 프로젝트 기간
 
-In the project directory, you can run:
+- 2023.11.26 ~ 2024.12.22
 
-### `npm start`
+<hr/>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### 🧑‍💻 팀원
+|              이승원    (팀장)               |                  조대훈                   |                   이정훈                   | 최재희                                          |                                                                                              
+|:--------------------------------------:|:--------------------------------------:|:---------------------------------------:|----------------------------------------------|
+| [@Garbi93](https://github.com/Garbi93) | [@CHOHUNE](https://github.com/CHOHUNE) | [@gns1485](https://github.com/gns14585) | [@travelerjh](https://github.com/travelerjh) |   
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<hr/>
 
-### `npm test`
+### 🗒️ 기획 의도
+- 사용자들에게 맞춤형 여행 정보와 예약 서비스를 제공하고  효율적이고 직관적인 여행사 웹사이트를 개발, 팀원 중 한 명의 실제 여행사 근무 경험을 통하여 필요한 기능, 고객의 요구 사항에 대해  이해하고 프로젝트를 진행.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<hr/>
 
-### `npm run build`
+### 💻 개발 환경 
+<img width="1154" alt="스크린샷 2024-06-20 오후 3 39 27" src="https://github.com/Garbi93/travel-front/assets/143367033/cfedfe32-52f0-44e0-b78e-65987f08a452">
+<img width="1154" alt="스크린샷 2024-06-20 오후 3 39 40" src="https://github.com/Garbi93/travel-front/assets/143367033/c4f0bae1-5a6d-4da0-88ee-bf06ed5c1f9c">
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<hr/>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### 🎹 ERD
+<img width="1154" alt="스크린샷 2024-06-20 오후 3 41 33" src="https://github.com/Garbi93/travel-front/assets/143367033/5ee2d348-f48c-4955-9123-21321c4bf501">
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<hr/>
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### 📈 화면 흐름도
+<img width="1154" alt="스크린샷 2024-06-20 오후 3 41 42" src="https://github.com/Garbi93/travel-front/assets/143367033/8698ec30-d191-47fb-a5f1-85eafca35843">
